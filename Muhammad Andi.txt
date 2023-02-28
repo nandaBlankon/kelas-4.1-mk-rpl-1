@@ -1,0 +1,4 @@
+NPM:21105111002
+Nama: Muhammad Andi
+ruang:4,1
+mk:Rekayasa perangkat lunak
