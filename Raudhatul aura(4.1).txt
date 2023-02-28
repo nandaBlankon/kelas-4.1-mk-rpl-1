@@ -1,0 +1,4 @@
+1. NPM   : 21105111057
+2. Nama  : Raudhatul Aura
+3. Ruang : 4.1
+4. MK    : Rekayasa Perangkat Lunak 1
